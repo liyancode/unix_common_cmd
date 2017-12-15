@@ -12,3 +12,7 @@
 ```$ps aux --sort -rss```
 ###### #by vsz
 ```$ps aux --sort -vsz```
+##### #easy way use top
+```$top```
+#### #check system current memory usage(https://www.linuxnix.com/find-ram-size-in-linuxunix/)
+```$free```
