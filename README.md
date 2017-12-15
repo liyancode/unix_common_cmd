@@ -1,6 +1,10 @@
 # unix_common_cmd
 
 #### #check unix version  
-```shell
+```bash
 $uname -a
+```
+#### #check cpuinfo(file under /proc)
+```bash
+$cat /proc/cpuinfo
 ```
